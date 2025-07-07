@@ -1,0 +1,17 @@
+====Starting ArrayList Operations====
+Initial List: [Computer Science, Electrical, Electronics, Mechanical, Civil, Aeronautics]
+After Inserting 'Robotics' at index 1 :[Computer Science, Robotics, Electrical, Electronics, Mechanical, Civil, Aeronautics]
+After removing 'electrical' : [Computer Science, Robotics, Electronics, Mechanical, Civil, Aeronautics]
+After updating index 2 to 'Chemical' : [Computer Science, Robotics, Chemical, Mechanical, Civil, Aeronautics]
+Searching for an Element: 
+Civil is present at Index 4
+Iterating using the for-each loop: 
+Computer Science
+Robotics
+Chemical
+Mechanical
+Civil
+Aeronautics
+Sorted List : [Aeronautics, Chemical, Civil, Computer Science, Mechanical, Robotics]
+====End of Operations====
+

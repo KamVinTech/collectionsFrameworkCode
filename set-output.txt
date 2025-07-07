@@ -1,0 +1,10 @@
+====Set (HashSet) Operations====
+Initial Elements of Set : [Parrot, Cat, cat, cock, Dog]
+Enter an animal name to remove from the set :
+cockwas removed from the set.
+Current Set : [Parrot, Cat, cat, Dog]
+Enter an animal name to check whether it exists or not :
+catAnimal exist in the set.
+Iterating through set: 
+Sorted Set (Via List) :[Cat, Dog, Parrot, cat]
+====End of Operations====
