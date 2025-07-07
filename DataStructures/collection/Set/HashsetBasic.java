@@ -10,6 +10,12 @@ import java.util.List;
 import java.util.Scanner;
 import java.util.Set;
 
+/*
+ * TreeSet will maintain the sorting. As it will automatically sort the set without explicitly using the
+ *  collections.sort();
+ * LinkedHashSet will maintain the Insertion order. Operations would be same as Set.
+ */
+
 public class HashsetBasic {
 
     private static final String set_result_file="set-output.txt";

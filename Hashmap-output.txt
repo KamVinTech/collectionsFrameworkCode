@@ -1,0 +1,17 @@
+Initiating map operations: 
+Initial CityMap: {1=Delhi, 2=Dehradun, 3=Sonipat, 4=Shimla, 5=Manali, 6=Chandigarh}
+Enter a Key:
+Enter the city name:
+Map After Adding new item: {1=Delhi, 2=Dehradun, 3=Sonipat, 4=Shimla, 5=Manali, 6=Chandigarh, 7=Karnal}
+Enter the position to search the city: 
+4 -> Shimla
+Enter the Key to remove:
+Map after removing key:{2=Dehradun, 3=Sonipat, 4=Shimla, 5=Manali, 6=Chandigarh, 7=Karnal}
+Iterating through Map:
+2 -> Dehradun
+3 -> Sonipat
+4 -> Shimla
+5 -> Manali
+6 -> Chandigarh
+7 -> Karnal
+====End of HashMap Operations====

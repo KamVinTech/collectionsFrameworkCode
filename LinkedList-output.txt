@@ -1,0 +1,24 @@
+====LinkedList Operations started====
+Initial LinkedList: [Renault, Ford, Aston Martin, Mercedes, BMW]
+List after Adding elements to first and last place: [Kia, Renault, Ford, Aston Martin, Mercedes, BMW, BYD]
+List after removing elements from first and last place: [Renault, Ford, Aston Martin, Mercedes, BMW]
+Element at index 1 : Ford
+Iterating through LinkedList: 
+Renault
+Ford
+Aston Martin
+Mercedes
+BMW
+====End of LinkedList Operations====
+====LinkedList Operations started====
+Initial LinkedList: [Renault, Ford, Aston Martin, Mercedes, BMW]
+List after Adding elements to first and last place: [Kia, Renault, Ford, Aston Martin, Mercedes, BMW, BYD]
+List after removing elements from first and last place: [Renault, Ford, Aston Martin, Mercedes, BMW]
+Element at index 1 : Ford
+Iterating through LinkedList: 
+Renault
+Ford
+Aston Martin
+Mercedes
+BMW
+====End of LinkedList Operations====
