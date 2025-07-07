@@ -10,7 +10,7 @@ import java.util.Scanner;
 
 public class ArraylistBasic {
 
-    public static final String result_File="arrayList-output-txt";
+    public static final String result_File="arrayList-output.txt";
     private static final boolean ALSO_ECHO_ON_CONSOLE=true;
 
     public static void arrayListOperations(){
