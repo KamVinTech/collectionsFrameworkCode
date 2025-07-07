@@ -66,6 +66,8 @@ public class hashmapBasic {
 
             } catch (IOException e) {
                 System.err.println("error writing file:" + e.getMessage());
+            }finally{
+                sc.close();
             }
         }
 
