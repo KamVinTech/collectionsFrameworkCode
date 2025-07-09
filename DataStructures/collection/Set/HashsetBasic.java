@@ -13,7 +13,9 @@ import java.util.Set;
 /*
  * TreeSet will maintain the sorting. As it will automatically sort the set without explicitly using the
  *  collections.sort();
+ * Treeset removes duplicates and ensure uniqueness. Required when validating against expected order.
  * LinkedHashSet will maintain the Insertion order. Operations would be same as Set.
+ * if you need Key-Value + Sorted by Key, then use Treemap.
  */
 
 public class HashsetBasic {
